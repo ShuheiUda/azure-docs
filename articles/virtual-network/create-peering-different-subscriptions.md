@@ -668,7 +668,6 @@ You need the **Resource ID** for **vnet-2** from the previous steps to set up th
     | Allow 'vnet-1' to receive forwarded traffic from 'vnet-2' | Select the checkbox. |
     | Allow gateway in 'vnet-1' to forward traffic to 'vnet-2' | Leave the default of cleared. |
     | Enable 'vnet-1' to use 'vnet-2' remote gateway | Leave the default of cleared. |
-    | Use remote virtual network gateway or route server | Leave the default of cleared. |
     | **Remote virtual network** |  |
     | Peering link name | Leave blank. |
     | Virtual network deployment model | Select **Resource manager**. |
